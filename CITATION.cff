@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+title: "Baginski Costa"
+
+authors:
+  - family-names: "Baginski Costa"
+    given-names: "Eduardo"
+    affiliation: "Baginski Costa"
+    orcid: "https://orcid.org/0009-0002-3089-7800"
+
+  - name: "Baginski Costa"
+
+type: Software
+license: MIT
+date-released: 2026-07-10
+repository-code: "https://github.com/baginskicosta"
