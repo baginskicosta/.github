@@ -8,11 +8,11 @@
 
 ## :dragon: Hello, I am [Baginski Costa][github]
 
-[![GitHub Sponsor](https://img.shields.io/badge/sponsor-000000?style=for-the-badge&logo=GitHub-Sponsors)][sponsor]
-[![Eduardo Baginski Costa](https://img.shields.io/badge/baginski-000000?style=for-the-badge&logo=github)][owner]
+[![GitHub Sponsor](https://img.shields.io/github/sponsors/eduardobaginskicosta?style=for-the-badge&logo=github-sponsors&labelColor=000000&color=202020)][sponsor]
+[![Eduardo Baginski Costa](https://img.shields.io/github/followers/eduardobaginskicosta?label=BAGINSKI&style=for-the-badge&logo=github&labelColor=000000&color=202020)][owner]
 [![OrcID](https://img.shields.io/badge/orcid-000000?style=for-the-badge&logo=orcid&logoColor=A6CE39)][orcid]  
 [![NPM](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=CB3837)][npm]
-[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000)][youtube]
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCfIGwa07j4PuU1FN-5umWaA?label=YOUTUBE&style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=000000&color=202020)][youtube]
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)][insta]
 
 I build Open Source and Open Core software with a **Linux-first** philosophy,
