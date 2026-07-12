@@ -1,51 +1,53 @@
-## :rotating_light: Reporting Security Issues
+## :rotating_light: Reporting Security Vulnerabilities
 
-If you discover a security vulnerability or a critical issue that could compromise the safety, integrity, or privacy of this project,
-**please do NOT open a public issue**.
+If you discover a security vulnerability that could affect the confidentiality,
+integrity, or availability of this project, **please do not report it through
+public GitHub issues, discussions, or pull requests.**
 
-Instead, report it directly via email:  
-📧 Contact Email:
+Instead, report it privately using the project's security contact.
+
+📧 **Security Contact**
 [**`baginskicosta@gmail.com`**](mailto:baginskicosta@gmail.com).
 
-## :lock: What Should Be Reported Privately
+## :lock: What to Report Privately
 
-Please contact us privately for issues such as:
+Please report issues such as:
 
-- Security vulnerabilities or exploits.
-- Remote code execution risks.
-- Authentication or authorization bypass.
-- Exposure of sensitive data.
-- Dependency vulnerabilities with active risk.
-- Any issue that could be actively exploited.
+- Security vulnerabilities.
+- Remote code execution or privilege escalation.
+- Authentication or authorization flaws.
+- Sensitive information disclosure.
+- Cryptographic weaknesses.
+- Dependency vulnerabilities with practical security impact.
+- Any issue that could reasonably be exploited by an attacker.
 
 ## :speech_balloon: What Can Be Reported Publicly
 
-You may use GitHub Issues for non-sensitive topics such as:
+The public issue tracker may be used for:
 
-- Bug reports that do not involve security risks.
+- Non-security bugs.
 - Feature requests.
 - Documentation improvements.
-- General questions or suggestions.
+- General questions and discussions.
 
-## :handshake: Responsible Disclosure
+## :handshake: Coordinated Disclosure
 
-We kindly ask that you:
+To help protect users, please:
 
-- Do not publicly disclose the vulnerability before it has been addressed.
-- Allow reasonable time for investigation and mitigation.
-- Provide clear steps to reproduce the issue, if possible.
+- Avoid publicly disclosing security vulnerabilities until they have been investigated and addressed.
+- Provide sufficient information to reproduce and understand the issue whenever possible.
+- Allow maintainers reasonable time to investigate, validate, and prepare a fix before public disclosure.
 
-We appreciate responsible disclosure and will do our best to respond promptly.
+## :hourglass_flowing_sand: Response
 
-## :hourglass_flowing_sand: Response Time
+Security reports are reviewed as resources permit and prioritized according to their potential impact.
 
-Security reports are treated with high priority. We aim to respond as soon as possible after receiving a report.
+While response times cannot be guaranteed, maintainers will make reasonable efforts to acknowledge and assess valid reports.
 
-## :trophy: Acknowledgement
+## :trophy: Recognition
 
-If appropriate, contributors who responsibly disclose valid security issues may be acknowledged,
-unless they prefer to remain anonymous.
+Contributors who responsibly disclose valid security vulnerabilities may be acknowledged at the discretion of the project maintainers, unless they request to remain anonymous.
 
 ## :pray: Thank You
 
-Your effort in responsibly reporting security issues helps keep this project safe for everyone.
+Thank you for helping improve the security and reliability of this project through responsible disclosure.

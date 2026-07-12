@@ -1,63 +1,71 @@
-## :handshake: Our Commitment
+## :handshake: Our Standards
 
-We are committed to providing a welcoming, inclusive, and harassment-free
+This project is committed to fostering a welcoming, inclusive, and respectful
 environment for everyone, regardless of experience level, background,
 identity, or personal characteristics.
 
-All contributors, maintainers, and participants are expected to act with
-respect and professionalism.
+All participants—including contributors, maintainers, and community members—
+are expected to communicate and collaborate professionally.
 
 ## :white_check_mark: Expected Behavior
 
-Examples of positive behavior include:
+Examples of expected behavior include:
 
-- Being respectful and considerate in all interactions.
-- Using welcoming and inclusive language.
-- Being open to constructive feedback.
-- Focusing on what is best for the community and the project.
-- Showing empathy toward other contributors.
+- Treat others with respect, courtesy, and professionalism.
+- Use welcoming and inclusive language.
+- Be open to constructive feedback and respectful discussion.
+- Focus on improving the project and supporting the community.
+- Respect differing viewpoints and experiences.
+- Assume good faith while discussing ideas and technical decisions.
 
 ## :no_entry_sign: Unacceptable Behavior
 
-The following behaviors are not tolerated:
+The following behaviors are considered unacceptable:
 
-- Harassment, discrimination, or offensive comments.
-- Personal attacks or derogatory language.
-- Trolling, insulting, or disruptive behavior.
-- Publishing private information without consent.
-- Any conduct that could reasonably be considered inappropriate
-  in a professional setting.
+- Harassment, discrimination, or hate speech.
+- Personal attacks, intimidation, or abusive language.
+- Trolling, deliberate disruption, or inflammatory behavior.
+- Sharing private or confidential information without permission.
+- Any conduct that would reasonably be considered inappropriate in a
+  collaborative or professional environment.
 
 ## :globe_with_meridians: Scope
 
-This Code of Conduct applies to all project spaces, including:
+This Code of Conduct applies to all spaces associated with the project,
+including but not limited to:
 
 - GitHub issues and pull requests.
 - Discussions and comments.
 - Code reviews.
-- Any communication related to the project.
-
-It also applies when representing the project in public spaces.
+- Project documentation.
+- Community communication channels.
+- Public interactions where an individual is representing the project.
 
 ## :shield: Enforcement
 
-Instances of unacceptable behavior may result in:
+Project maintainers are responsible for interpreting and enforcing this Code
+of Conduct.
 
-- A warning from maintainers.
-- Temporary or permanent removal from project participation.
-- Blocking from repositories or communication channels.
+Responses to violations may include:
 
-Enforcement decisions are made at the discretion of project maintainers and
-are intended to maintain a safe and productive environment.
+- Providing guidance or a warning.
+- Requesting changes in behavior.
+- Temporarily restricting participation.
+- Permanently removing access to project spaces when necessary.
 
-## :mailbox_with_mail: Reporting Issues
+Enforcement decisions are made in good faith, with the goal of protecting the
+health, integrity, and collaborative nature of the project.
 
-If you experience or witness unacceptable behavior, please report it to the
-project maintainers.  
-All reports will be handled confidentially and fairly.
+## :mailbox_with_mail: Reporting
+
+If you experience or witness behavior that violates this Code of Conduct,
+please report it to the project maintainers.
+
+Reports will be handled respectfully, as confidentially as reasonably
+possible, and reviewed in a fair and impartial manner.
 
 ## :scroll: Attribution
 
-This **Code of Conduct** is inspired by widely used open-source community
-standards, including the
+This Code of Conduct is based on principles widely adopted throughout the
+open-source community, including the
 [Contributor Covenant](https://www.contributor-covenant.org/).
