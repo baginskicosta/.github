@@ -1,24 +1,14 @@
-[github]: https://github.com/baginskicosta
 [owner]: https://github.com/eduardobaginskicosta
-[sponsor]: https://github.com/sponsors/eduardobaginskicosta
-[npm]: https://npmjs.com/org/baginskicosta
 [youtube]: https://www.youtube.com/@baginskicosta
 [insta]: https://www.instagram.com/baginskicosta/
-[orcid]: https://orcid.org/0009-0002-3089-7800
-[tv]: https://twitch.tv/
+[email]: mailto:baginskicosta@gmail.com
 
-## :dragon: Hello, I am [Baginski Costa][github]
+[![YouTube](https://img.shields.io/badge/youtube-0d1117?style=for-the-badge&logo=youtube&logoColor=a449fe)][youtube]
+[![Instagram](https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=a449fe)][insta]
+[![Personal GitHub](https://img.shields.io/badge/personal-0d1117?style=for-the-badge&logo=github&logoColor=a449fe)][owner]
+[![Contact GMail](https://img.shields.io/badge/gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=a449fe)][email]
 
-[![GitHub Sponsor](https://img.shields.io/github/sponsors/eduardobaginskicosta?label=&style=for-the-badge&logo=github-sponsors&labelColor=000000&color=202020)][sponsor]
-[![Eduardo Baginski Costa](https://img.shields.io/github/followers/eduardobaginskicosta?label=&style=for-the-badge&logo=github&labelColor=000000&color=202020)][owner]
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCfIGwa07j4PuU1FN-5umWaA?label=&style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=000000&color=202020)][youtube]
-[![Twitch](https://img.shields.io/twitch/status/baginskicosta?label=&style=for-the-badge&logo=twitch&logoColor=9147FF&labelColor=000000&color=202020)][tv]  
-[![OrcID](https://img.shields.io/badge/orcid-000000?style=for-the-badge&logo=orcid&logoColor=A6CE39)][orcid]
-[![NPM](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=CB3837)][npm]
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)][insta]
+We build with developers in mind. Thoughtful software, great experiences, and tools that get out of the way when they should
+and empower you when they matter. Better tools help developers do their best work, and better work makes better software.
 
-I build Open Source and Open Core software with a **Linux-first** philosophy,
-reating modern tools and technologies that help developers build
-better software.
-
-[Baginski Costa][github] is founded and maintained by [BAGINSKI][owner].
+Built by [Eduardo Baginski Costa][owner].
