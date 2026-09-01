@@ -24,6 +24,6 @@
 I’m a **Software Engineer** and creator of **Open Source** and
 **Open Core** technologies for Web and Desktop.
 
-I believe that developing software should be an increasingly better experience. That’s why I create tools focused on
-**Developer Experience (DX)**, aiming to make development more simple,
-smooth, productive, and robust.
+I believe that developing software should be an increasingly better experience.\
+That’s why I create tools focused on **Developer Experience (DX)**, aiming to
+make development more simple, smooth, productive, and robust.
