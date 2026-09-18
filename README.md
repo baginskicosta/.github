@@ -21,9 +21,11 @@
 
 <!-- * about me * -->
 
-I’m a **Software Engineer** and creator of **Open Source** and
-**Open Core** technologies for Web and Desktop.
+Baginski Costa, an independent unit of engineering and creation.\
+Everything we do is guided by one commitment: **quality is non-negotiable**.
 
-I believe that developing software should be an increasingly better experience.\
-That’s why I create tools focused on **Developer Experience (DX)**, aiming to
-make development more simple, smooth, productive, and robust.
+- Development where decisions matter.
+- Education with substance.
+- Rigorous standards.
+
+Everything connected by one principle: **excellence and responsibility**.
